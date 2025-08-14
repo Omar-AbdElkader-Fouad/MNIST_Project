@@ -15,6 +15,9 @@ This project demonstrates the complete workflow, including:
 - Training with validation, early stopping, and saving the best model.  
 - Preprocessing images for prediction with the trained model.
 
-## Try the Live App
+## 🔴 Try the Live App
 You can test the model interactively using the live Hugging Face app:  
-[MNIST Digit Classification App](https://huggingface.co/spaces/gfmglf/MNIST_Digit_Classification)
+(https://huggingface.co/spaces/gfmglf/MNIST_Digit_Classification)
+
+## 📊 Presentation
+the project presentation (https://docs.google.com/presentation/d/1JV6MscwmfFhqSoWQENH10gpG-k8PJcdq/edit?usp=sharing&ouid=115365572239764936265&rtpof=true&sd=true)
